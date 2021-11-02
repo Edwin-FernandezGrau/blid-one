@@ -26,7 +26,6 @@ sections:
         default_value: Please select
         options:
           - Consulta gratis
-          - Consultoria Actuarial
           - Análisis de Datos
       - input_type: textarea
         name: message
