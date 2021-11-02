@@ -6,7 +6,14 @@ sections:
     type: section_form
     content: >
       Por favor complete el siguiente formulario. Se sugiere contactarnos
-      mediante **Instagram** o  **Telegram**.
+      mediante **Instagram** , **Telegram,
+      **\[Whatsapp]\(https://wa.me/51945942289)
+
+
+      )
+
+
+      .
     form_id: contactForm
     form_action: /thank-you
     form_fields:
