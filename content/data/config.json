@@ -42,13 +42,6 @@
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/company/blid-ed",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
                 "label": "TELEGRAM",
                 "url": "https://t.me/blid_io",
                 "style": "link",
