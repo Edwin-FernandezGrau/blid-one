@@ -37,4 +37,6 @@ En el ámbito laboral, se ha desempeñado como Consultor Actuarial en distintas 
 
 Como pasatiempo, Edwin comparte información en términos sencillos sobre temas de finanzas, seguros e innovación. Últimamente, ha tomado particular interés en tópicos Insurtech.
 
+Dato importante, BLID nace en honor al bibliotecario Luis Miguel Grau Hernández.
+
 ¡Gracias por leer!
