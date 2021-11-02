@@ -41,7 +41,7 @@ seo:
     - name: 'twitter:title'
       value: BLID
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Business ¦ Leadership ¦ Innovation ¦ Digitization
     - name: 'twitter:image'
       value: /images/BLID.gif
       relativeUrl: true
