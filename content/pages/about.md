@@ -31,13 +31,12 @@ seo:
       relativeUrl: true
 layout: page
 ---
+**Edwin Fernández** es Consultor Actuarial, Graduado de Economía y Desarrollo por la UPC y con Especialización en Blockchain por el MIT Professional Education y Certicificado en Data Analytics por Google.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+En el ambito laboral, se ha desempeñado como Consultor Acturial en distintas compañias de seguros en el Perú. Cuenta con experiencia en tarificación de productos de seguros y el cálculo de reservas de los mismos.  Adicionalmente, es Profesor Asistente en la Facultad de Economía de la UPC y Docente de Ciencias Actuariales en ADVANCED RISK SERVICES.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+> “Las cosas grandes comienzan con algo pequeño. El roble más grande parte de una bellota ”. Jeff Bezos
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Como pasatiempo Edwin comparte información en términos sencillos sobre temas de finanzas, seguros e innovacion. Ultimamente ha tomado particular interes en tópicos Insurtech.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+¡Gracias por leer!
