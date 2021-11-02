@@ -2,7 +2,7 @@
     "title": "BLID",
     "path_prefix": "/",
     "layout_style": "overflow",
-    "palette": "green",
+    "palette": "blue",
     "header": {
         "title": "BLID",
         "profile_img_alt": "Author avatar",
