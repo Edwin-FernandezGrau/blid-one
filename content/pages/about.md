@@ -35,7 +35,9 @@ layout: page
 
 En el ambito laboral, se ha desempeñado como Consultor Acturial en distintas compañias de seguros en el Perú. Cuenta con experiencia en tarificación de productos de seguros y el cálculo de reservas de los mismos.  Adicionalmente, es Profesor Asistente en la Facultad de Economía de la UPC y Docente de Ciencias Actuariales en ADVANCED RISK SERVICES.
 
-> “Las cosas grandes comienzan con algo pequeño. El roble más grande parte de una bellota ”. Jeff Bezos
+> “Las cosas grandes comienzan con algo pequeño. El roble más grande parte de una bellota ”
+>
+> *Jeff Bezos*
 
 Como pasatiempo Edwin comparte información en términos sencillos sobre temas de finanzas, seguros e innovacion. Ultimamente ha tomado particular interes en tópicos Insurtech.
 
