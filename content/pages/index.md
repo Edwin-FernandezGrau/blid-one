@@ -13,13 +13,9 @@ sections:
     title: About
     content: >
       Compartimos información en términos sencillos respecto a tópicos de
-      educación financiera y seguros. 
-
-
-      Asi mismo, se comparte ideas de innovación y su impacto en el mercado.
-
-
-      Buscamos ser tu aliado y acompañarte en tu crecimiento.
+      educación financiera y seguros. Asi mismo, se comparte ideas de innovación
+      y su impacto en el mercado. Buscamos ser tu aliado y acompañarte en tu
+      crecimiento.
     actions:
       - label: Contact Me
         url: /contact
