@@ -1,6 +1,6 @@
 ---
 title: ACERCA DE
-subtitle: Conoce un poco más
+subtitle: Conóceme un poco más
 img_path: /images/248775120_297005238934905_8207182154887814984_n.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
