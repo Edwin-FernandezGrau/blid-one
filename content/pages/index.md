@@ -9,7 +9,6 @@ sections:
       Datos a tu alcance
   - section_id: about
     type: section_content
-    title: About
     content: >
       Compartimos información en términos sencillos respecto a tópicos de
       educación financiera y seguros. Asi mismo, se comparte ideas de innovación
