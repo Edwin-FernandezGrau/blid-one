@@ -30,7 +30,7 @@ seo:
       value: BLID
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Business ¦ Leadership ¦ Innovation ¦ Digitization
       keyName: property
     - name: 'og:image'
       value: /images/BLID.gif
