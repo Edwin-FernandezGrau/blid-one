@@ -58,7 +58,7 @@
             },
             {
                 "label": "TIK TOK",
-                "url": "www.tiktok.com/@blid.io",
+                "url": "https://tiktok.com/@blid.io",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": true,
