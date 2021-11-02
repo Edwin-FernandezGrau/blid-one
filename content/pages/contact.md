@@ -6,8 +6,10 @@ sections:
     type: section_form
     content: >
       Por favor complete el siguiente formulario. Se sugiere contactarnos
-      mediante **Instagram** , **Telegram**  o **
-      **[**Whatsapp**](https://wa.me/51945942289).
+      mediante [**Twitter**](https://twitter.com/Ed_FernandezG)**,** 
+      [**Instagram**](https://www.instagram.com/blid.io/) ,
+      [**Telegram**](https://t.me/blid_io) o
+      [**Whatsapp**](https://wa.me/51945942289).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
