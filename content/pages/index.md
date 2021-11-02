@@ -15,7 +15,7 @@ sections:
       y su impacto en el mercado. Buscamos ser tu aliado y acompañarte en tu
       crecimiento.
     actions:
-      - label: CONTAC
+      - label: CONVERSEMOS
         url: /contact
         style: button
     title: ACERCA DE
