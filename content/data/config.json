@@ -61,5 +61,6 @@
     "footer": {
         "content": "&copy;BLID. All rights reserved.dt"
     },
-    "domain": "https://blid-092cb.netlify.app"
+    "domain": "https://blid-092cb.netlify.app",
+    "favicon": "/images/blif-0461dded.jpg"
 }
