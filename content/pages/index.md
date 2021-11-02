@@ -39,7 +39,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: BLID
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
