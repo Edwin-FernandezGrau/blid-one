@@ -1,7 +1,7 @@
 ---
 title: ACERCA DE
 subtitle: ' Esta es una breve página sobre mí y mi trabajo.'
-img_path: /images/V2.jpg
+img_path: /images/248775120_297005238934905_8207182154887814984_n.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
