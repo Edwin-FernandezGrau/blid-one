@@ -33,7 +33,7 @@ seo:
       value: The preview of the Fresh theme
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/BLID.gif
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
