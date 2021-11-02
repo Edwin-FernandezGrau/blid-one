@@ -11,11 +11,15 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Compartimos información en términos sencillos respecto a tópicos de
+      educación financiera y seguros. 
+
+
+      Asi mismo, se comparte ideas de innovación y su impacto en el mercado.
+
+
+      Buscamos ser tu aliado y acompañarte en tu crecimiento.
     actions:
       - label: Contact Me
         url: /contact
