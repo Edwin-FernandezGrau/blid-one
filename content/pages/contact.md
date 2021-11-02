@@ -25,7 +25,7 @@ sections:
         options:
           - Consulta gratis
           - Consultoria Actuarial
-          - Other
+          - Análisis de Datos
       - input_type: textarea
         name: message
         label: Message
