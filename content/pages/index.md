@@ -11,7 +11,7 @@ sections:
     type: section_content
     content: >
       Compartimos información en términos sencillos respecto a tópicos de
-      educación financiera y seguros. Asi mismo, se comparte ideas de innovación
+      educación financiera y seguros. Así mismo, se comparte ideas de innovación
       y su impacto en el mercado. Buscamos ser tu aliado y acompañarte en tu
       crecimiento.
     actions:
