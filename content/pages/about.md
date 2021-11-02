@@ -31,10 +31,10 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**Edwin Fernández** es Consultor Actuarial, Graduado de Economía y Desarrollo por la UPC y con Especialización en Blockchain por el MIT Professional Education y Certicificado en Data Analytics por Google.
+**Edwin Fernández** es Consultor Actuarial, Graduado de Economía y Desarrollo por la UPC y con Especialización en Blockchain por el MIT Professional Education y Certificado en Data Analytics por Google.
 
-En el ambito laboral, se ha desempeñado como Consultor Acturial en distintas compañias de seguros en el Perú. Cuenta con experiencia en tarificación de productos de seguros y el cálculo de reservas de los mismos.  Adicionalmente, es Profesor Asistente en la Facultad de Economía de la UPC y Docente de Ciencias Actuariales en ADVANCED RISK SERVICES.
+En el ámbito laboral, se ha desempeñado como Consultor Actuarial en distintas compañias de seguros en el Perú. Cuenta con experiencia en tarificación de productos de seguros y el cálculo de reservas de los mismos.  Adicionalmente, es Profesor Asistente en la Facultad de Economía de la UPC y Docente de Ciencias Actuariales en ADVANCED RISK SERVICES.
 
-Como pasatiempo Edwin comparte información en términos sencillos sobre temas de finanzas, seguros e innovacion. Ultimamente ha tomado particular interes en tópicos Insurtech.
+Como pasatiempo, Edwin comparte información en términos sencillos sobre temas de finanzas, seguros e innovación. Últimamente, ha tomado particular interés en tópicos Insurtech.
 
 ¡Gracias por leer!
