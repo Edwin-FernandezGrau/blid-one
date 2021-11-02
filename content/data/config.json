@@ -58,7 +58,7 @@
             {
                 "label": "TIK TOK",
                 "url": "www.tiktok.com/@blid.io",
-                "style": "button",
+                "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
