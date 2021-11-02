@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Somos BLID
     content: |
-      Datos a tu alcance.
+      Datos a tu alcance
   - section_id: about
     type: section_content
     title: About
