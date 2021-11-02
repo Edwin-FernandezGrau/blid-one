@@ -54,6 +54,14 @@
                 "style": "link",
                 "icon_class": "instagram",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "profile_img": "/images/blif-3413c7a7.jpg",
