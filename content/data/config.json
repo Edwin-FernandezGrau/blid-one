@@ -49,7 +49,7 @@
                 "new_window": true
             },
             {
-                "label": "DEV",
+                "label": "CONSULTA",
                 "url": "https://dev.to/",
                 "style": "icon",
                 "icon_class": "dev",
