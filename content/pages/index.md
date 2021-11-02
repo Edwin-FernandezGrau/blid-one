@@ -18,6 +18,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
+    title: ACERCA DE
 seo:
   title: BLID
   description: Cultura Digital
