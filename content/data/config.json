@@ -50,7 +50,7 @@
             },
             {
                 "label": "TELEGRAM",
-                "url": "t.me/blid_io",
+                "url": "https://t.me/blid_io",
                 "style": "link",
                 "icon_class": "instagram",
                 "new_window": true,
