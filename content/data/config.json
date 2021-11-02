@@ -51,7 +51,7 @@
             {
                 "label": "CONSULTA GRATIS",
                 "url": "https://calendly.com/blid/consulta",
-                "style": "button",
+                "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
             }
