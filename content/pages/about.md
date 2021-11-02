@@ -29,6 +29,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
+subtitle: Una breve página sobre mi.
 ---
 **Edwin Fernández** es Consultor Actuarial, Graduado de Economía y Desarrollo por la UPC y con Especialización en Blockchain por el MIT Professional Education y Certificado en Data Analytics por Google.
 
