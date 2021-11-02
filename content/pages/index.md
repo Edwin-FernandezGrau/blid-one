@@ -43,7 +43,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/BLID.gif
       relativeUrl: true
 layout: advanced
 ---
