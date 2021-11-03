@@ -20,7 +20,7 @@ sections:
       Adicionalmente, puede gestionar una consulta gratis :
 
        [![](/images/blid-cfe18023.png)](https://calendly.com/blid/consulta)
-    submit_label: borrar
+    submit_label: Volver
 seo:
   title: Contact
   description: This is the contact page
