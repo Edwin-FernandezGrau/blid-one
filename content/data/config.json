@@ -10,14 +10,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "CONTACTO01",
-                "url": "/style-guide",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "INICIO",
                 "url": "/",
                 "style": "link",
@@ -29,6 +21,14 @@
                 "label": "ACERCA DE",
                 "url": "/about/",
                 "style": "link"
+            },
+            {
+                "label": "CONTACTO01",
+                "url": "/style-guide",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
             },
             {
                 "label": "CONTACTO",
