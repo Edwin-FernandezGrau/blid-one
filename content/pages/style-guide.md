@@ -79,16 +79,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum s
 4. Vivamus convallis urna id felis
 5. Nulla porta tempus sapien
 
-## Code Blocks
 
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-```
-<!-- Some example CSS code -->
-body {
-  color: #333;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-}
 ```
 
