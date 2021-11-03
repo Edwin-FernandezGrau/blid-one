@@ -18,7 +18,7 @@ sections:
       Adicionalmente, puede gestionar una consulta gratis :
 
 
-      [![](/images/blid-cfe18023.png)]()
+      [![](/images/blid-cfe18023.png)](https://calendly.com/blid/consulta)
     form_id: contactForm
     form_fields:
       - input_type: text
