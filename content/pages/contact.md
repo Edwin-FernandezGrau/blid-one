@@ -15,8 +15,10 @@ sections:
       [![](/images/linkedin-93c34aaa.png)]()
 
 
-      Adicionalmente, puede enviarnos un correo completando el siguiente
-      formulario.
+      Adicionalmente, puede gestionar una consulta gratis :
+
+
+      ![](/images/blid-cfe18023.png)
     form_id: contactForm
     form_fields:
       - input_type: text
