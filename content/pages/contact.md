@@ -10,7 +10,7 @@ sections:
 
       [![](/images/instagram-5c1ff187.png)](https://www.instagram.com/blid.io/)       
       [![](/images/tiktok-9e2c06b4.png)](https://www.tiktok.com/@blid.io)        
-      [![](/images/telegram-35095ec1.png)]()       
+      [![](/images/telegram-35095ec1.png)](https://t.me/blid_io)       
       [![](/images/whatsapp-1e79dba6.png)]()        
       [![](/images/linkedin-93c34aaa.png)]()
 
