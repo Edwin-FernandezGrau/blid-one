@@ -3,7 +3,7 @@ title: CONVERSEMOS
 hide_title: false
 sections:
   - section_id: contact-form
-    
+    type: section_form
     content: >
       Se sugiere contactarnos mediante :
 
