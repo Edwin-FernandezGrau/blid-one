@@ -10,11 +10,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "INICIO",
-                "url": "/",
-                "style": "link"
-            },
-            {
                 "label": "ACERCA DE",
                 "url": "/about/",
                 "style": "link"
