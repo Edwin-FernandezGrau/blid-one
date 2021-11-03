@@ -8,8 +8,6 @@ subtitle: >
       [![](/images/whatsapp-1e79dba6.png)](https://wa.me/51945942289)        
       [![](/images/linkedin-93c34aaa.png)](https://www.linkedin.com/in/edwin-fernandez-grau/)
 
-
-
       Adicionalmente, puede gestionar una consulta gratis :
 
        [![](/images/blid-cfe18023.png)](https://calendly.com/blid/consulta)
