@@ -19,8 +19,7 @@ sections:
 
 
       [![](/images/blid-cfe18023.png)](https://calendly.com/blid/consulta)
-
-    submit_label: Inicio
+    submit_label: borrar
 seo:
   title: Contact
   description: This is the contact page
