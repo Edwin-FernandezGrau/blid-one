@@ -24,7 +24,7 @@
             },
             {
                 "label": "CONTACTO",
-                "url": "/contacto",
+                "url": " style-guide",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
