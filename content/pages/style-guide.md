@@ -42,7 +42,7 @@ Se sugiere contactarnos mediante :
 
 
 
-      Adicionalmente, puede gestionar una consulta gratis :
+     Adicionalmente, puede gestionar una consulta gratis :
 
        [![](/images/blid-cfe18023.png)](https://calendly.com/blid/consulta)
 
