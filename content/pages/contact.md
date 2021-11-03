@@ -12,10 +12,7 @@ sections:
       [**Whatsapp**](https://wa.me/51945942289).
 
 
-      ![](/images/instagram.png)
-
-
-      Adicionalmente, puede contactarnos por correo completando el siguiente
+      Adicionalmente, puede enviarnos un correo completando el siguiente
       formulario.
     form_id: contactForm
     form_fields:
