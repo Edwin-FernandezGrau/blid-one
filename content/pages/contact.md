@@ -12,15 +12,13 @@ sections:
       [**Whatsapp**](https://wa.me/51945942289).
 
 
-      ![](/images/instagram-5c1ff187.png)     
+      ![](/images/instagram-5c1ff187.png)   
       ![](/images/tiktok-9e2c06b4.png)    
       ![](/images/telegram-35095ec1.png)    
       ![](/images/whatsapp-1e79dba6.png)    
-      ![](/images/linkedin-93c34aaa.png)   
+      ![](/images/linkedin-93c34aaa.png)     
 
-
-      Adicionalmente, puede enviarnos un correo completando el siguiente
-      formulario.
+       Adicionalmente, puede enviarnos un correo completando el siguiente formulario.
     form_id: contactForm
     form_fields:
       - input_type: text
